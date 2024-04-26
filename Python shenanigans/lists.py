@@ -103,4 +103,5 @@ print(EVEN_NUMBERS[-3:]) # print last 3 elements
 for subsetEvenNumber in EVEN_NUMBERS[:3] :
     print(subsetEvenNumber)
 
-# NOTE for deep copy use slicing like [:] 
+# NOTE for deep copy use slicing like [:]
+# Empty lists evaluate to False non-empty evaluates to True
