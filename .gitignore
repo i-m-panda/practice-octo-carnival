@@ -6,3 +6,6 @@
 
 # tmp files
 *.temp
+
+# others
+.mypy_cache
