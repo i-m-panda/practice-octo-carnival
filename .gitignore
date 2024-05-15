@@ -9,3 +9,5 @@
 
 # others
 .mypy_cache
+
+.DS_Store
