@@ -1,4 +1,5 @@
 """string related functions"""
+# you can use single quotes and double quotes interchangably for strings
 
 OG_STRING = "panda"
 print(OG_STRING.title())

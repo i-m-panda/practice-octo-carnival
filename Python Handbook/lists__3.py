@@ -1,4 +1,5 @@
 """lists related methods and manipulation"""
+# lists: collection of items in particular order
 
 SIMPLE_LIST = [1, 3, 5, 7, 10, 2, 100, 3]
 MIXED_LIST = [100, "hello", "c", "d", True, 20]

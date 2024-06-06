@@ -10,7 +10,7 @@ print(apple["color"])
 apple["smell"] = "sweet"
 
 # define empty dictionary like below
-orange = {}
+orange: dict = {}
 
 # for modifying the value, access the value by key and assing it a value
 apple["color"] = "brown"
