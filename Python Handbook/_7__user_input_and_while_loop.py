@@ -19,7 +19,7 @@ print(message)
 # the list as you work through it use while loop
 
 
-# you can consider the code below to move items from one list to another
+# you can consider the code below to move items from one list to another using while loop
 freshFruits = ["apple", "banana", "orange", "watermelon", "strawberry"]
 fruitBasket = []
 
@@ -28,7 +28,7 @@ while freshFruits:
 for fruit in fruitBasket:
     print("You have " + fruit + " in your basket")
 
-# to remove all instances of specific values from a list consider this code:
+# to remove all instances of specific values from a list using while loop consider this code:
 animalsList = ["dog", "cat", "elephant", "cat", "hawk", "fish", "cat", "bear"]
 while "cat" in animalsList:
     animalsList.remove("cat")
